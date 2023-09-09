@@ -1,10 +1,6 @@
 from pessoa import Pessoa
 import re
 
-# pessoa1 = Pessoa('Zezinho', '09/09/2009', '11122233345')
-# pessoa2 = Pessoa('Mariazinha', '06/06/2006', '22211133345')
-# print(pessoa1.cpf)
-# print(pessoa2.cpf)
 lista_de_pessoas = []
 continuar = True
 
